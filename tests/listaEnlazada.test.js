@@ -1,6 +1,6 @@
 /* eslint-env jest */
 
-const { Lista } = require('../listaEnlazada');
+const { Lista } = require('../src/listaEnlazada');
 
 
 describe('Lista Enlazada', () => {
