@@ -1,0 +1,15 @@
+{
+  "name": "lista-enlazada",
+  "version": "1.0.0",
+  "main": "src/listaEnlazada.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
